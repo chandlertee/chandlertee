@@ -2,15 +2,10 @@
 ### A Proven Engineering and Product Leader Driving Scalable Solutions  
 
 - 🔭 I’m currently working on **developing innovative platforms and designing indie game projects**  
-
 - 🌱 I’m currently learning **Rust, Godot, and GenAI**  
-
 - 👯 I’m looking to collaborate on **Cloud Platform Solutions, AR/VR, and Gaming**  
-
 - 💬 Ask me about **Engineering Management, Product Management, and Data**  
-
 - 📫 How to reach me: **[LinkedIn](https://linkedin.com/in/chandlerthompson)**
-
 - 😄 Pronouns: he/him
 
 ### About Me
