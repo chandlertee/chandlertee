@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Chandler Thompson  
 ***A Proven Engineering and Product Leader Driving Scalable Solutions***
 - 🔭 I’m currently working on **developing innovative platforms and designing indie game projects**  
-- 🌱 I’m currently learning **Rust, Godot, and GenAI**  
+- 🌱 I’m currently learning **Lua, Godot, and GenAI**  
 - 👯 I’m looking to collaborate on **Cloud Platform Solutions, AR/VR, and Gaming**  
 - 💬 Ask me about **Engineering Management, Product Management, and Data**  
 - 📫 How to reach me: **[LinkedIn](https://linkedin.com/in/chandlerthompson)**
@@ -20,6 +20,6 @@ I’m a technical leader with a passion for gaming and emerging technologies, in
 #### Fun Facts  
 - 🎮 I’m passionate about both video games and tabletop RPGs (ask me about my D&D campaign ideas!)  
 - 🛠️ I’ve developed over 80 AR effects on the Meta Spark platform, with some going viral with millions of impressions  
-- 🏃 I’m training for a half marathon while diving deeper into AI and game development technologies  
+- 🏃 I’m training for a marathon while diving deeper into AI and game development technologies  
 
 Let’s connect and create something amazing together!
