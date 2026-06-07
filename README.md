@@ -1,25 +1,21 @@
-### Hi there 👋 I'm Chandler Thompson  
-***A Proven Engineering and Product Leader Driving Scalable Solutions***
-- 🔭 I’m currently working on **developing innovative platforms and designing indie game projects**  
-- 🌱 I’m currently learning **Lua, Godot, and GenAI**  
-- 👯 I’m looking to collaborate on **Cloud Platform Solutions, AR/VR, and Gaming**  
-- 💬 Ask me about **Engineering Management, Product Management, and Data**  
-- 📫 How to reach me: **[LinkedIn](https://linkedin.com/in/chandlerthompson)**
-- 😄 Pronouns: he/him
+### Chandler Thompson
 
-#### About Me
-I’m a technical leader with a passion for gaming and emerging technologies, including AR/VR and Gen AI. With extensive experience in e-commerce, analytics, and two-sided marketplaces, I specialize in building global platforms and leading high-performing teams.  
+**Engineering leader and coach.** I lead engineering teams and coach the people who run them.
 
-#### Key Skills  
-- **Engineering Leadership:** Scaling teams, driving alignment, and fostering innovation  
-- **E-Commerce Expertise:** Subscription management, consumption-based products, and marketplace solutions  
-- **Platform Modernization:** Transforming legacy systems into scalable, cloud-based platforms  
-- **Analytics & Experimentation:** Designing data pipelines and BI tools for actionable insights  
-- **Gaming & Tech Enthusiast:** Indie game development, AR/VR hobbyist, and Meta Spark AR Creator  
+I've spent 14+ years building software, and the teams that take it from first launch to global scale. That work spans full-stack products, data and BI, marketplaces, and marketing and identity platforms. I keep a coaching practice on the side and write from it.
 
-#### Fun Facts  
-- 🎮 I’m passionate about both video games and tabletop RPGs (ask me about my D&D campaign ideas!)  
-- 🛠️ I’ve developed over 80 AR effects on the Meta Spark platform, with some going viral with millions of impressions  
-- 🏃 I’m training for a marathon while diving deeper into AI and game development technologies  
+#### Background
+- Currently lead the team behind **Favor's marketing platform, sign-in/identity, and the Favor Gold subscription platform**
+- Launched a new **commerce platform for Unity Cloud** (subscription-billing migration)
+- Built **Unity Cloud's identity (authorization) platform team** from the ground up
+- Launched **BriefcaseHQ to $1M ARR in its first month** at AppSumo
 
-Let’s connect and create something amazing together!
+#### On AI
+I'm interested in how AI actually gets adopted in engineering and business — past the hype, into real workflows and real decisions. I keep it grounded by building with it hands-on (self-hosted LLMs and small tools, a few of them here), and I write about what holds up and what doesn't.
+
+#### Where I write
+[chandlerthompson.dev](https://chandlerthompson.dev) — engineering leadership, AI in practice, and where leadership and coaching meet.
+
+- Site &nbsp;·&nbsp; https://chandlerthompson.dev
+- Now &nbsp;·&nbsp; https://chandlerthompson.dev/now
+- LinkedIn &nbsp;·&nbsp; https://linkedin.com/in/chandlerthompson
